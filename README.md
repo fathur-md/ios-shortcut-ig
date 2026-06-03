@@ -20,4 +20,4 @@ cd <nama-folder-repo>
 
 ## iOS Shortcuts
 
-<img src="./iOS Shortcuts.PNG" width="400" />
+<img src="./ios-shortcut.png" width="400" />
